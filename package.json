@@ -2,7 +2,7 @@
   "name": "reels-auto-render-server",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {"start": "node server.mjs"},
+  "scripts": {"start": "node servidor.mjs"},
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.21.2",
